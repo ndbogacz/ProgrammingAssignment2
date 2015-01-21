@@ -1,6 +1,6 @@
 ## The following functions will return the inverse of a matrix
 ## The design allows for caching of values, to save time
-## The functions assume an inversible matrix as input
+## The functions assume an inversible matrix as the input
 
 ## makeCacheMatrix will create a list of functions to use in cacheSolve
 
